@@ -50,3 +50,14 @@ Profiles created and updated on:
 ---
 
 ## 📁 Repository Structure
+task-1-presentation/
+task-2-portfolio/
+task-3-platforms/
+task-4-email-etiquette/
+task-5-cybercrime/
+report/
+
+---
+
+## 📘 Conclusion
+This project enhanced my understanding of digital tools, professional communication, and cybersecurity awareness, helping me become a responsible digital citizen.
