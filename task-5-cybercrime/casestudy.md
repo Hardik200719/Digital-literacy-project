@@ -1,5 +1,9 @@
-UPI fraud is a cybercrime where attackers trick users into sharing OTP or approving payments.
+# 🔐 UPI Fraud Case Study
 
-They pretend to be bank officials. Once the victim shares details, money is deducted.
+UPI fraud is one of the most common cybercrimes in India. In this type of fraud, attackers trick users into sharing sensitive information such as OTPs or approving payment requests.
 
-Students are common targets. This leads to financial loss and stress.
+Typically, the fraudster pretends to be a bank official or customer support agent. They contact the victim and convince them to verify their account details. Once the victim shares the OTP or approves a request, money is instantly deducted.
+
+Students and elderly people are the most common targets due to lack of awareness. The consequences include financial loss, stress, and loss of trust in digital platforms.
+
+This highlights the importance of digital literacy and being cautious while performing online transactions.
