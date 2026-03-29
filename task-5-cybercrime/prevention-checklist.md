@@ -1,14 +1,22 @@
-# Stay Safe Online Checklist
+# 🛡 Stay Safe Online – Prevention Checklist
 
-- Never share OTP with anyone
-- Do not approve unknown UPI requests
-- Verify identity before payments
-- Use official apps only
-- Enable 2-factor authentication
-- Avoid public Wi-Fi for transactions
-- Report fraud on cybercrime.gov.in
-- Call helpline 1930
+## ✅ General Safety Tips
+- Never share OTP with anyone  
+- Do not click on suspicious links  
+- Use strong and unique passwords  
+- Enable two-factor authentication  
+- Avoid using public Wi-Fi for transactions  
+- Always verify unknown contacts  
 
-## UPI Safety
-- Always check receiver name
-- Never scan unknown QR codes
+---
+
+## 💰 UPI Safety Tips
+- Always check receiver name before payment  
+- Never scan unknown QR codes  
+- Do not approve unknown payment requests  
+
+---
+
+## 🚨 Reporting Cybercrime
+- Report at: https://cybercrime.gov.in  
+- Helpline: **1930**
