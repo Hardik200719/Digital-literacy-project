@@ -1,26 +1,35 @@
-Subject: Request for Assignment Deadline Extension
+# 📧 Professional Emails
 
-Dear Professor,
+---
 
-I hope you are doing well. I am writing to request an extension due to unavoidable circumstances.
+## 📌 Email 1: Request for Assignment Extension
 
-I kindly request a 2-day extension.
+**Subject:** Request for Assignment Deadline Extension  
 
-Thank you.
+Dear Professor,  
 
-Sincerely,
-Hardik
+I hope you are doing well. I am writing to request an extension for the assignment submission due to unavoidable circumstances.  
 
+I kindly request a 2-day extension to complete my work properly. I assure you that I will submit quality work within the extended time.  
 
-Subject: Application for Summer Internship
+Thank you for your understanding.  
 
-Dear Sir/Madam,
+**Sincerely,**  
+Hardik  
 
-I am a first-year CSE student at VIT Bhopal and I am interested in applying for a summer internship.
+---
 
-I am eager to learn and gain experience.
+## 📌 Email 2: Application for Internship
 
-Thank you.
+**Subject:** Application for Summer Internship Opportunity  
 
-Sincerely,
-Hardik
+Dear Sir/Madam,  
+
+I hope this message finds you well. I am a first-year Computer Science student at VIT Bhopal University, and I am interested in applying for a summer internship at your organization.  
+
+I am eager to gain practical experience and enhance my technical skills. I would be grateful for the opportunity to learn and contribute.  
+
+Thank you for your time and consideration.  
+
+**Sincerely,**  
+Hardik  
