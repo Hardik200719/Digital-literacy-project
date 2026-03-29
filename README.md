@@ -33,7 +33,9 @@ Profiles created and updated on:
 
 ### 💻 Task 3 – Platforms
 - Completed a beginner coding challenge on HackerRank  
-- Created a Digital Literacy Quiz using Google Forms  
+- Created a Digital Literacy Quiz using Google Forms
+
+- 👉 **Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLScqcF5rta4P4b9szBXLxz9yspLZaOhK9FVMDVOnX5SGjviwkg/viewform?usp=publish-editor
 
 ---
 
